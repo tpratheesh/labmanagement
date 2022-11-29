@@ -14,7 +14,7 @@
 	<name>labmanagement</name>
 	<description>Azure Developer Capstone Lab Management</description>
 	<properties>
-		<java.version>1.8</java.version>
+		<java.version>11</java.version>
 		<spring-cloud-azure.version>4.4.1</spring-cloud-azure.version>
 	</properties>
 	<dependencies>
@@ -29,11 +29,6 @@
 		<dependency>
 			<groupId>com.azure.spring</groupId>
 			<artifactId>spring-cloud-azure-starter-keyvault</artifactId>
-		</dependency>
-		<dependency>
-			<groupId>com.microsoft.azure</groupId>
-			<artifactId>azure-client-authentication</artifactId>
-			<version>1.6.10</version>
 		</dependency>
 		<dependency>
 			<groupId>com.microsoft.sqlserver</groupId>
