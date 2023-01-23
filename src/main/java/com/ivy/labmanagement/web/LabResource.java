@@ -1,8 +1,8 @@
-package com.socgen.labmanagement.web;
+package com.ivy.labmanagement.web;
 
-import com.socgen.labmanagement.modal.Lab;
-import com.socgen.labmanagement.service.LabService;
-import com.socgen.labmanagement.web.form.LabForm;
+import com.ivy.labmanagement.modal.Lab;
+import com.ivy.labmanagement.service.LabService;
+import com.ivy.labmanagement.web.form.LabForm;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

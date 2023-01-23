@@ -1,4 +1,4 @@
-package com.socgen.labmanagement.modal;
+package com.ivy.labmanagement.modal;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
@@ -12,10 +12,11 @@ import javax.persistence.*;
 @Getter
 @Setter
 @Entity
-@Table(name = "tbl_category")
-public class Category {
+@Table(name = "tbl_author")
+public class Author {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
-    private String name;
+    private String firstName;
+    private String lastName;
 }

@@ -1,10 +1,10 @@
-package com.socgen.labmanagement.service;
+package com.ivy.labmanagement.service;
 
-import com.socgen.labmanagement.modal.Author;
-import com.socgen.labmanagement.modal.Category;
-import com.socgen.labmanagement.modal.Lab;
-import com.socgen.labmanagement.repository.LabRepository;
-import com.socgen.labmanagement.web.form.LabForm;
+import com.ivy.labmanagement.modal.Author;
+import com.ivy.labmanagement.modal.Category;
+import com.ivy.labmanagement.modal.Lab;
+import com.ivy.labmanagement.repository.LabRepository;
+import com.ivy.labmanagement.web.form.LabForm;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

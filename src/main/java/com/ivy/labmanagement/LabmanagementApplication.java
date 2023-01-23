@@ -1,4 +1,4 @@
-package com.socgen.labmanagement;
+package com.ivy.labmanagement;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

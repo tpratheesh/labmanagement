@@ -1,6 +1,6 @@
-package com.socgen.labmanagement.repository;
+package com.ivy.labmanagement.repository;
 
-import com.socgen.labmanagement.modal.Category;
+import com.ivy.labmanagement.modal.Category;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

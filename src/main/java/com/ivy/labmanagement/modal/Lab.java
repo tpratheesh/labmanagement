@@ -1,4 +1,4 @@
-package com.socgen.labmanagement.modal;
+package com.ivy.labmanagement.modal;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

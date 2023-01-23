@@ -1,7 +1,7 @@
-package com.socgen.labmanagement.web;
+package com.ivy.labmanagement.web;
 
-import com.socgen.labmanagement.modal.Category;
-import com.socgen.labmanagement.service.CategoryService;
+import com.ivy.labmanagement.modal.Category;
+import com.ivy.labmanagement.service.CategoryService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

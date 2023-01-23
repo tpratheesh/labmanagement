@@ -1,7 +1,7 @@
-package com.socgen.labmanagement.web;
+package com.ivy.labmanagement.web;
 
-import com.socgen.labmanagement.modal.Author;
-import com.socgen.labmanagement.service.AuthorService;
+import com.ivy.labmanagement.modal.Author;
+import com.ivy.labmanagement.service.AuthorService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

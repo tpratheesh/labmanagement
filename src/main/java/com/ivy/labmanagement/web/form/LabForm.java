@@ -1,4 +1,4 @@
-package com.socgen.labmanagement.web.form;
+package com.ivy.labmanagement.web.form;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

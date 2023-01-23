@@ -1,7 +1,7 @@
-package com.socgen.labmanagement.service;
+package com.ivy.labmanagement.service;
 
-import com.socgen.labmanagement.modal.Category;
-import com.socgen.labmanagement.repository.CategoryRepository;
+import com.ivy.labmanagement.modal.Category;
+import com.ivy.labmanagement.repository.CategoryRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
